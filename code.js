@@ -3,6 +3,9 @@
 // current path
 console.log(__dirname)
 
+// current file name
+console.log(__filename)
+
 // Info about the environment the program is running.
 console.log(process)
 
